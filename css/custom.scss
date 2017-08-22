@@ -1,0 +1,38 @@
+.mc-header {
+  background-image: url(../images/bg-header.png);
+  background-position: top center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+}
+
+img.mc-logo {
+  max-width: 300px;
+}
+
+.mc-header-locations {
+  padding: 0;
+  margin-top: 0;
+}
+
+.column.mc-content-body {
+  background-color: $content-background-color;
+}
+
+.columns.mc-content {
+  margin: 0;
+}
+
+.footer, .footer * {
+  color: $footer-color;
+}
+
+.button-round {
+  @include button-round;
+
+  & > span {
+    left: 10%;
+    position: absolute;
+    top: 10%;
+  }
+}

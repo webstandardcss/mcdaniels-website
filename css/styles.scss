@@ -1,0 +1,63 @@
+@import "../node_modules/bulma/sass/utilities/_all";
+@import "mixins.sass";
+
+// Set your colors
+$primary: #ffd200;
+$primary-invert: findColorInvert($primary);
+$twitter: #4099FF;
+$twitter-invert: findColorInvert($twitter);
+$facebook: #4267B2;
+$facebook-invert: findColorInvert($facebook);
+$google-plus: #DB4437;
+$google-plus-invert: findColorInvert($google-plus);
+$body-background-color: $black;
+$text: #ddd;
+$text-strong: $white;
+$title-color: $primary;
+$subtitle-color: $text;
+$subtitle-strong-color: $text-strong;
+$link-hover: $white;
+$content-background-color: #252525;
+$footer-background-color: #363636;
+$footer-color: $primary;
+$box-background-color: #363636;
+$box-border-color: #959595;
+$white-transparent: rgba(220,220,220,0.7);
+$white-transparent-invert: findColorInvert($white-transparent);
+$grey-transparent: rgba(175,175,175,0.7);
+$grey-transparent-invert: findColorInvert($grey-transparent);
+$dark-transparent: rgba(100,100,100,0.7);
+$dark-transparent-invert: findColorInvert($dark-transparent);
+$darker-transparent: rgba(50,50,50,0.7);
+$darker-transparent-invert: findColorInvert($darker-transparent);
+$black-transparent: rgba(0,0,0,0.7);
+$black-transparent-invert: findColorInvert($black-transparent);
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+    white: ($white, $black),
+    black: ($black, $white),
+    light: ($light, $light-invert),
+    dark: ($dark, $dark-invert),
+    primary: ($primary, $primary-invert),
+    info: ($info, $info-invert),
+    success: ($success, $success-invert),
+    warning: ($warning, $warning-invert),
+    danger: ($danger, $danger-invert),
+    twitter: ($twitter, $twitter-invert),
+    facebook: ($facebook, $facebook-invert),
+    google-plus: ($google-plus, $google-plus-invert),
+    white-transparent: ($white-transparent, $white-transparent-invert),
+    grey-transparent: ($grey-transparent, $grey-transparent-invert),
+    dark-transparent: ($dark-transparent, $dark-transparent-invert),
+    darker-transparent: ($darker-transparent, $darker-transparent-invert),
+    black-transparent: ($black-transparent, $yellow)
+);
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+@import "../node_modules/bulma/bulma";
+@import "custom.scss";
