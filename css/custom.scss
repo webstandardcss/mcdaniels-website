@@ -38,8 +38,17 @@ img.mc-logo-image {
 }
 
 .mc-header-locations {
+  @include mq('tablet') {
+    padding-right: 5rem;
+  }
   @include mq('tablet-wide') {
     padding-right: 8rem;
+  }
+  @include mq('desktop') {
+    padding-right: 10rem;
+  }
+  @include mq('desktop-wide') {
+    padding-right: 12rem;
   }
 }
 
@@ -54,5 +63,11 @@ img.mc-logo-image {
   @include mq('tablet') {
     top: 2rem;
     left: 5rem;
+  }
+  @include mq('desktop') {
+    left: 7rem;
+  }
+  @include mq('desktop-wide') {
+    left: 9rem;
   }
 }
