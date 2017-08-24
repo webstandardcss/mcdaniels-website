@@ -6,7 +6,7 @@
   background-size:  cover;
 }
 
-img.mc-logo {
+img.mc-logo-image {
   max-width: 300px;
 }
 
@@ -34,5 +34,25 @@ img.mc-logo {
     left: 10%;
     position: absolute;
     top: 10%;
+  }
+}
+
+.mc-header-locations {
+  @include mq('tablet-wide') {
+    padding-right: 8rem;
+  }
+}
+
+.mc-logo-image {
+  position: relative;
+  @include mq('phone') {
+    left: 50%;
+  }
+  @include mq('phone-plus') {
+    left: 2rem;
+  }
+  @include mq('tablet') {
+    top: 2rem;
+    left: 5rem;
   }
 }
