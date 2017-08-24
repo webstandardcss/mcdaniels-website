@@ -5,24 +5,16 @@
 // Set your colors
 $primary: #ffd200;
 $primary-invert: findColorInvert($primary);
+$almost-white: #ddd;
+$darker-background-color: #252525;
+$alt-background-color: #363636;
+$alt-border-color: #959595;
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 $facebook: #4267B2;
 $facebook-invert: findColorInvert($facebook);
 $google-plus: #DB4437;
 $google-plus-invert: findColorInvert($google-plus);
-$body-background-color: $black;
-$text: #ddd;
-$text-strong: $white;
-$title-color: $primary;
-$subtitle-color: $text;
-$subtitle-strong-color: $text-strong;
-$link-hover: $white;
-$content-background-color: #252525;
-$footer-background-color: #363636;
-$footer-color: $primary;
-$box-background-color: #363636;
-$box-border-color: #959595;
 $white-transparent: rgba(220,220,220,0.7);
 $white-transparent-invert: findColorInvert($white-transparent);
 $grey-transparent: rgba(175,175,175,0.7);
@@ -55,10 +47,26 @@ $colors: (
     black-transparent: ($black-transparent, $yellow)
 );
 
+// Text colors
+$text: $almost-white;
+$text-strong: $white;
+$title-color: $primary;
+$subtitle-color: $text;
+$subtitle-strong-color: $text-strong;
+
+// Layout colors
+$footer-color: $primary;
+$body-background-color: $black;
+$content-background-color: $darker-background-color;
+$footer-background-color: $alt-background-color;
+$box-background-color: $alt-background-color;
+$box-border-color: $alt-border-color;
+
 // Links
 $link: $primary;
 $link-invert: $primary-invert;
 $link-focus-border: $primary;
+$link-hover: $white;
 
 @import "../node_modules/bulma/bulma";
 @import "custom.scss";
