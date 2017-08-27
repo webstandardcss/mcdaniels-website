@@ -68,5 +68,15 @@ $link-invert: $primary-invert;
 $link-focus-border: $primary;
 $link-hover: $white;
 
+// Nav colors
+$navbar-background-color: $alt-background-color;
+$navbar-item-color: $text;
+$navbar-dropdown-background-color: $navbar-background-color;
+$navbar-divider-background-color: $darker-background-color;
+$navbar-dropdown-border-top: 1px solid $navbar-divider-background-color;
+$navbar-item-hover-color: $primary;
+$navbar-item-active-color: $primary;
+$navbar-dropdown-item-active-color: $black;
+
 @import "../node_modules/bulma/bulma";
 @import "custom.scss";
