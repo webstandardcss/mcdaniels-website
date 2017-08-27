@@ -60,7 +60,7 @@ img.mc-logo-image {
 
 .mc-staff-column .image {
   @include mq($to: tablet) {
-    margin: 0 auto 48px auto;
+    margin: 0 auto 48px auto; 
   }
 }
 

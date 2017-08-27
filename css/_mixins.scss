@@ -82,7 +82,8 @@ $breakpoints: (
 		@if type-of($to) == number {
 			$max-width: $to;
 		} @else {
-			$negative: if($em-media-queries, 0.01em, 1px);
+			// $negative: if($em-media-queries, 0.01em, 1px);
+			$negative: 1px;
 			$max-width: map_get($bp, $to) - $negative;
 		}
 	}
