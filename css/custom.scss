@@ -66,6 +66,11 @@ img.mc-logo-image {
   }
 }
 
+.mc-content-body .is-pulled-right {
+  padding-left: 24px;
+  padding-bottom: 12px;
+}
+
 .mc-logo-image {
   position: relative;
   @include mq('phone') {
