@@ -33,8 +33,8 @@
           <a class="navbar-item " href="/documentation/overview/start/">
             Overview
           </a>
-          <a class="navbar-item is-active" href="/">
-              Components
+          <a class="navbar-item is-active" href="/staff.php">
+              Staff
           </a>
           <a class="navbar-item " href="/gallery">
             <span class="bd-emoji">🎨</span>
