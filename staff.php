@@ -1,3 +1,10 @@
+<?php // Page data
+include_once("inc/config.php");
+$pageTitle = "Staff " . $siteName;
+$pageDescription =  $siteName . " Staff";
+$pageKeywords = "staff,office,technicians,sales" . $siteKeywords;
+?>
+
 <?php include_once("inc/header.php"); ?>
 
 <div class="column mc-content-body">
