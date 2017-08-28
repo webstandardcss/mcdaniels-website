@@ -5,7 +5,7 @@
     <div class="hero-body">
       <div class="columns">
         <div class="column" class="mc-logo">
-          <a href="/"><img src="imageslogo.png" class="mc-logo-image" alt="McDaniels Quality Body Works"></a>
+          <a href="/"><img src="images/logo.png" class="mc-logo-image" alt="McDaniels Quality Body Works"></a>
         </div>
         <div class="column is-hidden-mobile"></div>
         <div class="column is-narrow mc-header-locations is-hidden-mobile">
