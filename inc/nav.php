@@ -30,18 +30,20 @@
           About
         </a>
         <div class="navbar-dropdown ">
-          <a class="navbar-item " href="/documentation/overview/start/">
-            Overview
+          <a class="navbar-item " href="/about.php">
+            <span class="bd-emoji">🚗</span>
+            About Us
           </a>
           <a class="navbar-item is-active" href="/staff.php">
-              Staff
+            <span class="bd-emoji">👥</span>
+            Staff
           </a>
           <a class="navbar-item " href="/gallery">
             <span class="bd-emoji">🎨</span>
             Gallery
           </a>
           <a class="navbar-item " href="/testimonials">
-            <span class="bd-emoji">❤️</span>
+            <span class="bd-emoji">💖</span>
             Testimonials
           </a>
         </div>
