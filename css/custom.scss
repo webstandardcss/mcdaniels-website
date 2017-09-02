@@ -90,3 +90,14 @@ img.mc-logo-image {
     left: 9rem;
   }
 }
+
+.home-buttons-column {
+  border: solid 1px $content-background-color;
+  background-color: $button-background-color;
+}
+
+.home-buttons-column img {
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+}
