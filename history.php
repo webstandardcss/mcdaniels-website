@@ -1,9 +1,9 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = $siteName . " Homepage";
-$pageDescription = $siteName . "Homepage";
-$pageKeywords = "homepage" . $siteKeywords;
+$pageTitle = "History of " . $siteName;
+$pageDescription = "History of " . $siteName;
+$pageKeywords = "history, Richard McDaniels, V.L. McDaniels, Dickie McDaniels, Darrell Smith, Mark McDaniels" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
