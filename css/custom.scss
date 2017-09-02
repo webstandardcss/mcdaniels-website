@@ -85,6 +85,8 @@ img.mc-logo-image {
 
 .footer, .footer * {
   color: $footer-color;
+  z-index: -10;
+  position: relative;
 }
 
 /* Content Area Utilities (Not for an individual page) */

@@ -76,9 +76,11 @@ $navbar-item-color: $text;
 $navbar-dropdown-background-color: $navbar-background-color;
 $navbar-divider-background-color: $darker-background-color;
 $navbar-dropdown-border-top: 1px solid $navbar-divider-background-color;
-$navbar-item-hover-color: $primary;
+$navbar-item-hover-color: $text;
+$navbar-item-hover-background-color: $darker-background-color;
+$navbar-dropdown-item-active-background-color: $darker-background-color;
 $navbar-item-active-color: $primary;
-$navbar-dropdown-item-active-color: $black;
+$navbar-dropdown-item-active-color: $primary;
 
 @import "../node_modules/bulma/bulma";
 @import "custom.scss";
