@@ -1,6 +1,6 @@
 # Dependency directories #
 ##########################
-node_modules/
+# node_modules/
 .sass-cache/
 
 # Bulma files #
@@ -9,9 +9,9 @@ package-lock.json
 
 # Generated CSS Files #
 #######################
-css/styles.css
-css/styles.min.css
-css/*.map
+# css/styles.css
+# css/styles.min.css
+# css/*.map
 
 # Packages #
 ############
