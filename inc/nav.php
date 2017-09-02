@@ -1,4 +1,4 @@
-<nav class="navbar is-transparent">
+<nav class="navbar">
   <div class="navbar-brand">
     <a class="navbar-item" href="/">
       <img src="images/logo-sm.png" alt="McDaniels Body Repair">
