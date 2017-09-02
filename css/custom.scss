@@ -1,3 +1,5 @@
+/* Header Layout */
+
 .mc-header {
   background-image: url(../images/bg-header.png);
   background-position: top center;
@@ -8,67 +10,6 @@
 
 img.mc-logo-image {
   max-width: 300px;
-}
-
-.mc-header-locations {
-  padding: 0;
-  margin-top: 0;
-}
-
-.column.mc-content-body {
-  background-color: $content-background-color;
-}
-
-.columns.mc-content {
-  margin: 0;
-}
-
-.footer, .footer * {
-  color: $footer-color;
-}
-
-.button-round {
-  @include button-round;
-
-  & > span {
-    left: 10%;
-    position: absolute;
-    top: 10%;
-  }
-}
-
-.mc-header-locations {
-  @include mq('tablet') {
-    padding-right: 5rem;
-  }
-  @include mq('tablet-wide') {
-    padding-right: 8rem;
-  }
-  @include mq('desktop') {
-    padding-right: 10rem;
-  }
-  @include mq('desktop-wide') {
-    padding-right: 12rem;
-  }
-}
-
-.mc-staff-column .media {
-  @include mq($to: tablet) {
-    display: block;
-  }
-}
-
-.mc-staff-column .image {
-  @include mq($to: tablet) {
-    margin: 0 auto 69px auto;
-    width: 180px;
-    height: 180px;
-  }
-}
-
-.mc-content-body .is-pulled-right {
-  padding-left: 24px;
-  padding-bottom: 12px;
 }
 
 .mc-logo-image {
@@ -91,6 +32,65 @@ img.mc-logo-image {
   }
 }
 
+.mc-header-locations {
+  padding: 0;
+  margin-top: 0;
+
+  @include mq('tablet') {
+    padding-right: 5rem;
+  }
+  @include mq('tablet-wide') {
+    padding-right: 8rem;
+  }
+  @include mq('desktop') {
+    padding-right: 10rem;
+  }
+  @include mq('desktop-wide') {
+    padding-right: 12rem;
+  }
+}
+
+/* Navbar Layout */
+
+.navbar-scrolled {
+
+}
+
+/* Content Area Layout */
+
+.column.mc-content-body {
+  background-color: $content-background-color;
+}
+
+.columns.mc-content {
+  margin: 0;
+}
+
+.mc-content-body .is-pulled-right {
+  padding-left: 24px;
+  padding-bottom: 12px;
+}
+
+/* Footer Layout */
+
+.footer, .footer * {
+  color: $footer-color;
+}
+
+/* Content Area Utilities (Not for an individual page) */
+
+.button-round {
+  @include button-round;
+
+  & > span {
+    left: 10%;
+    position: absolute;
+    top: 10%;
+  }
+}
+
+/* Home Page */
+
 .home-buttons-column {
   border: solid 1px $content-background-color;
   background-color: $button-background-color;
@@ -100,4 +100,21 @@ img.mc-logo-image {
   max-width: 60%;
   display: block;
   margin: 0 auto;
+}
+
+
+/* Staff Page */
+
+.mc-staff-column .media {
+  @include mq($to: tablet) {
+    display: block;
+  }
+}
+
+.mc-staff-column .image {
+  @include mq($to: tablet) {
+    margin: 0 auto 69px auto;
+    width: 180px;
+    height: 180px;
+  }
 }
