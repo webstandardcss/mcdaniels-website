@@ -53,7 +53,9 @@ img.mc-logo-image {
 /* Navbar Layout */
 
 .navbar-scrolled {
-
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 /* Content Area Layout */

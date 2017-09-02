@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
 
@@ -25,5 +26,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
 });
 </script>
+<script>
+  var navbar = $(".navbar");
+      navbarScrolled = "navbar-scrolled";
+      mcHeader = $('.mc-header').height();
 
+  $(window).scroll(function() {
+    if( $(this).scrollTop() > mcHeader ) {
+      navbar.addClass(navbarScrolled);
+    } else {
+      navbar.removeClass(navbarScrolled);
+    }
+  });
+</script>
 <script src="http://localhost:35729/livereload.js"></script>
