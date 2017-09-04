@@ -52,11 +52,11 @@
           </a>
         </div>
       </div>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link " href="/blog/">
+      <div class="navbar-item is-hoverable">
+        <a class="navbar-link" href="/auto-body-estimates.php">
           Estimates
         </a>
-        <div id="blogDropdown" class="navbar-dropdown " data-style="width: 18rem;">
+        <!-- div id="blogDropdown" class="navbar-dropdown " data-style="width: 18rem;">
 
             <a class="navbar-item" href="/2017/08/03/list-of-tags/">
               <div class="navbar-content">
@@ -66,10 +66,10 @@
                 <p>New feature: list of tags</p>
               </div>
             </a>
-        </div>
+        </div -->
       </div>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="i-car-gold-training.php">
+      <div class="navbar-item is-hoverable">
+        <a class="navbar-link" href="/i-car-gold-training.php">
           I-Car Gold Training
         </a>
         <!-- div id="moreDropdown" class="navbar-dropdown ">
@@ -119,7 +119,7 @@
           </div>
         </div>
       </div>
-      <div class="navbar-item has-dropdown is-hoverable">
+      <div class="navbar-item is-hoverable">
         <a class="navbar-link" href="body-repair-warranty.php">
           Warranty
         </a>
