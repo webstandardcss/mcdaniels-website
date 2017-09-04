@@ -42,9 +42,9 @@
             <span class="bd-emoji">📅</span>
             History
           </a>
-          <a class="navbar-item " href="/gallery">
+          <a class="navbar-item " href="/body-repair-facilities.php">
             <span class="bd-emoji">🎨</span>
-            Gallery
+            Facilities
           </a>
           <a class="navbar-item " href="/thank-you.php">
             <span class="bd-emoji">💖</span>
