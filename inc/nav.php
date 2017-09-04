@@ -69,10 +69,10 @@
         </div>
       </div>
       <div class="navbar-item has-dropdown is-hoverable">
-        <div class="navbar-link">
+        <a class="navbar-link" href="i-car-gold-training.php">
           I-Car Gold Training
-        </div>
-        <div id="moreDropdown" class="navbar-dropdown ">
+        </a>
+        <!-- div id="moreDropdown" class="navbar-dropdown ">
           <a class="navbar-item " href="/extensions/">
             <div class="level is-mobile">
               <div class="level-left">
@@ -93,7 +93,7 @@
               </div>
             </div>
           </a>
-        </div>
+        </div -->
       </div>
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link" href="/documentation/overview/start/">
