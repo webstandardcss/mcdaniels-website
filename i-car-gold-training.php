@@ -13,7 +13,9 @@ $pageKeywords = "homepage" . $siteKeywords;
   <h2 class="subtitle">Longview Collision Repair Training</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <a href="https://www.goldclass.com/" target="_blank" class="image sidebar-image"><img src="images/i-car-gold-class.png" alt="I-Car Gold Training"></a>
+      <a href="https://www.goldclass.com/" target="_blank" class="image sidebar-image">
+        <img src="images/i-car-gold-class.png" alt="I-Car Gold Training">
+      </a>
     </div>
     <div class="column">
       <p class="block">Longview Auto Body Training We are proud to say that on-going training is a very important part of our success.</p>

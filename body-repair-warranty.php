@@ -13,7 +13,9 @@ $pageKeywords = "homepage" . $siteKeywords;
   <h2 class="subtitle">Auto Body Repair Warranty in Longview Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <a href="images\auto-body-repair-warranty.pdf" target="_blank" class="image sidebar-image"><img src="images\lifetime-warranty.gif" alt="I-Car Gold Training"></a>
+      <a href="images\auto-body-repair-warranty.pdf" target="_blank" class="image sidebar-image">
+        <img src="images\lifetime-warranty.gif" alt="Lifetime Warranty">
+      </a>
     </div>
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:7%"></p>
