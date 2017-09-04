@@ -23,7 +23,7 @@ $pageKeywords = $pageTitle . " " . $siteKeywords;
       <p class="block">I appreciate hearing when you refer your friends and family to us for their needs.</p>
       <p class="block">McDaniel's has a long heritage starting with V.L. McDaniel, Richard McDaniel, Mark McDaniel and now myself, Darrell Smith that is committed to offering the best service and quality in collision repair and we look forward to serving you with the same dedication for many years to come.</p>
       <d class="mc-signature-block">
-        <img src="imageshistory-4-darrell.jpg" alt="Thank you from Darrell Smith and the staff at McDaniels Quality Body Works" class="is-pulled-left">
+        <img src="images/history-4-darrell.jpg" hspace="12" alt="Thank you from Darrell Smith and the staff at McDaniels Quality Body Works" class="is-pulled-left">
         <p class="mc-signature">
           <div>Longview Auto Body Staff</div>
           <div>Thanks again,</div>

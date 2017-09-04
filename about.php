@@ -1,6 +1,6 @@
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = "About" . $siteName;
+$pageTitle = "About";
 $pageTitleTag = $pageTitle . " " . $siteName;
 $pageDescription = "Find out about " . $siteName;
 $pageKeywords = $pageTitle . ",about us" . $siteKeywords;
