@@ -26,7 +26,7 @@
   <div id="navMenubd-example" class="navbar-menu">
     <div class="navbar-start">
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link  is-active" href="/documentation/overview/start/">
+        <a class="navbar-link  is-active" href="/about.php">
           About
         </a>
         <div class="navbar-dropdown ">
@@ -34,11 +34,11 @@
             <span class="bd-emoji">🚗</span>
             About Us
           </a>
-          <a class="navbar-item" href="/staff.php">
+          <a class="navbar-item" href="/auto-body-staff.php">
             <span class="bd-emoji">👥</span>
             Staff
           </a>
-          <a class="navbar-item" href="/history.php">
+          <a class="navbar-item" href="/mcdaniels-history.php">
             <span class="bd-emoji">📅</span>
             History
           </a>
