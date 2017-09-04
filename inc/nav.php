@@ -120,14 +120,14 @@
         </div>
       </div>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/documentation/overview/start/">
+        <a class="navbar-link" href="body-repair-warranty.php">
           Warranty
         </a>
-        <div class="navbar-dropdown ">
+        <!-- div class="navbar-dropdown ">
           <a class="navbar-item " href="/documentation/overview/start/">
             Warranty
           </a>
-        </div>
+        </div -->
       </div>
 
     </div>
