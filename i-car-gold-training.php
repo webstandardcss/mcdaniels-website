@@ -1,20 +1,21 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = $siteName . " Homepage";
-$pageDescription = $siteName . "Homepage";
-$pageKeywords = "homepage" . $siteKeywords;
+$pageTitle = "I-Car Gold Training"
+$pageTitleTag = $siteName . " " . $pageTitle";
+$pageDescription = $siteName  . " " . $pageTitle";
+$pageKeywords = $pageTitle . ",certified" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
-  <h1 class="title">I-Car Gold Training</h1>
+  <h1 class="title"><?php echo $pageTitle; ?></h1>
   <h2 class="subtitle">Longview Collision Repair Training</h2>
   <div class="columns">
     <div class="column is-narrow">
       <a href="https://www.goldclass.com/" target="_blank" class="image sidebar-image">
-        <img src="images/i-car-gold-class.png" alt="I-Car Gold Training">
+        <img src="images/sidebar-i-car-gold-class.png" alt="<?php echo $pageTitle; ?>">
       </a>
     </div>
     <div class="column">

@@ -1,9 +1,10 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = $siteName . " Homepage";
-$pageDescription = $siteName . "Homepage";
-$pageKeywords = "homepage" . $siteKeywords;
+$pageTitle = "Lifetime Warranty";
+$pageTitleTag = $siteName . " " . $pageTitle;
+$pageDescription = $siteName  . " " . $pageTitle;
+$pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
@@ -14,7 +15,7 @@ $pageKeywords = "homepage" . $siteKeywords;
   <div class="columns">
     <div class="column is-narrow">
       <a href="images\auto-body-repair-warranty.pdf" target="_blank" class="image sidebar-image">
-        <img src="images\lifetime-warranty.gif" alt="Lifetime Warranty">
+        <img src="images\sidebar-lifetime-warranty.gif" alt="<?php echo $pageTitle; ?>">
       </a>
     </div>
     <div class="column">

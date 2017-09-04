@@ -1,14 +1,15 @@
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = "Staff " . $siteName;
-$pageDescription =  $siteName . " Staff";
-$pageKeywords = "staff,office,technicians,sales" . $siteKeywords;
+$pageTitle = "Staff";
+$pageTitleTag = $siteName . " " . $pageTitle;
+$pageDescription = $siteName  . " " . $pageTitle;
+$pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
 
 <div class="column mc-content-body">
-<h1 class="title">McDaniel’s Auto Painting and Body Work Staff</h1>
+<h1 class="title"><?php echo $pageTitleTag; ?></h1>
 <!-- h2 class="subtitle"></h2 -->
 <div class="block">
   <h3 class="is-size-4">Sales and Estimating Staff</h3>

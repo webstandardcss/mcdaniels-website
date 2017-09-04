@@ -1,4 +1,4 @@
-<title><?php echo $pageTitle; ?></title>
+<title><?php echo $pageTitleTag; ?></title>
 
     <!-- Meta data -->
     <meta charset="utf-8">
@@ -10,14 +10,14 @@
     <link rel="canonical" href="<?php echo $pageURL; ?>" />
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="<?php echo $pageTitle; ?>">
+    <meta itemprop="name" content="<?php echo $pageTitleTag; ?>">
     <meta itemprop="description" content="<?php echo $pageDescription; ?>">
     <meta itemprop="image" content="<?php echo $pageImage; ?>">
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="<?php echo $pageImage; ?>">
     <meta name="twitter:site" content="<?php echo $siteTwitter; ?>">
-    <meta name="twitter:title" content="<?php echo $pageTitle; ?>">
+    <meta name="twitter:title" content="<?php echo $pageTitleTag; ?>">
     <meta name="twitter:description" content="<?php echo $pageDescription; ?>">
     <meta name="twitter:creator" content="<?php echo $siteTwitter; ?>">
 
@@ -25,7 +25,7 @@
     <meta name="twitter:image:src" content="<?php echo $pageImage; ?>">
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="<?php echo $pageTitle; ?>" />
+    <meta property="og:title" content="<?php echo $pageTitleTag; ?>" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="<?php echo $pageURL; ?>" />
     <meta property="og:image" content="<?php echo $pageImage; ?>" />
@@ -33,7 +33,7 @@
     <meta property="og:site_name" content="<?php echo $siteName; ?>" />
     <meta property="article:published_time" content="<?php echo $pageDateModified; ?>" />
     <meta property="article:modified_time" content="<?php echo $pageDateModified; ?>" />
-    <meta property="article:section" content="<?php echo $pageTitle; ?>" />
+    <meta property="article:section" content="<?php echo $pageTitleTag; ?>" />
     <meta property="article:tag" content="<?php echo $pageKeywords; ?>" />
     <meta property="fb:admins" content="<?php echo $siteFacebookAdmin; ?>" />
 

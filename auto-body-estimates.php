@@ -1,19 +1,20 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = $siteName . " Homepage";
-$pageDescription = $siteName . "Homepage";
-$pageKeywords = "homepage" . $siteKeywords;
+$pageTitle = "Free Estimates";
+$pageTitleTag = $siteName . " " . $pageTitle;
+$pageDescription = $siteName . " " . $pageTitle;
+$pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
-  <h1 class="title">Free Estimates</h1>
+  <h1 class="title"><?php echo $pageTitle; ?></h1>
   <h2 class="subtitle">Get a Paint and Body Repair Estimate in Longview Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <img src="images\free-estimates.png" class="sidebar-image" alt="Free Estimates">
+      <img src="images\sidebar-free-estimates.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
     </div>
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:0"></p>

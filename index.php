@@ -1,9 +1,10 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = $siteName . " Homepage";
-$pageDescription = $siteName . "Homepage";
-$pageKeywords = "homepage" . $siteKeywords;
+$pageTitle = "Homepage"
+$pageTitleTag = $siteName . " " . $pageTitle";
+$pageDescription = $siteName  . " " . $pageTitle";
+$pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>

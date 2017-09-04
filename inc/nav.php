@@ -46,9 +46,9 @@
             <span class="bd-emoji">🎨</span>
             Gallery
           </a>
-          <a class="navbar-item " href="/testimonials">
+          <a class="navbar-item " href="/thank-you.php">
             <span class="bd-emoji">💖</span>
-            Testimonials
+            Thank You
           </a>
         </div>
       </div>
