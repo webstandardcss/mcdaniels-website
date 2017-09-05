@@ -96,27 +96,18 @@
         </div -->
       </div>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/documentation/overview/start/">
-          Accident - FAQ's
+        <a class="navbar-link" href="/accidents.php">
+          Help / FAQ&rsquo;s
         </a>
-        <div class="navbar-dropdown ">
-          <a class="navbar-item " href="/documentation/overview/start/">
-            Overview
+        <div class="navbar-dropdown">
+          <a class="navbar-item " href="/accidents.php">
+            <span class="bd-emoji emoji-wide">💥</span>
+            Accident Help
           </a>
-
-          <hr class="navbar-divider">
-          <div class="navbar-item">
-            <div>
-              <p class="is-size-6-desktop">
-                <strong class="has-text-info">McDaniels</strong>
-              </p>
-
-                <small>
-                  <a class="bd-view-all-versions" href="/versions">View all FAQ's</a>
-                </small>
-
-            </div>
-          </div>
+          <a class="navbar-item " href="/faq.php">
+            <span class="bd-emoji">❓</span>
+            Frequently Asked Questions
+          </a>
         </div>
       </div>
       <div class="navbar-item is-hoverable">
