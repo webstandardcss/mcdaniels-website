@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . ",history" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
-<?php include_once('inc/fotorama.php') ?>
+<?php include_once('inc/fotorama.php'); ?>
 <div class="column mc-content-body section">
   <div class="columns is-flex-mobile">
     <div class="column"><img src="images/history-1-vl.jpg" alt="VL McDaniels"></div>
@@ -25,7 +25,7 @@ $pageKeywords = $pageTitle . ",history" . $siteKeywords;
     <p class="block">After the passing of V.L. in 1972, Richard continued to own and operate the shop until 1973 when the reins were passed to sons Richard Jr.(Dickie) and Mark McDaniel and was later renamed McDaniel's Quality Body Works in 1975. Dickie worked along side of Mark until 1987, when he ventured on his own into paint and bodyshop equipment sales. Richard retired in 1992, but still continues to come by weekly to "check on things." Mark McDaniel continued to operate the shop until September 2011 when he retired and the reigns of ownership were passed to longtime Sales Manager, Darrell Smith.</p>
   </div>
 
-  <!-- 2. Add images to <div class="fotorama"></div>. -->
+  <!-- 2. Add images to <div class="fotorama" data-nav="thumbs"></div>. -->
   <div class="fotorama" data-nav="thumbs">
     <img src="images/auto-body/history/old-001.jpg" alt="Auto body history">
     <img src="images/auto-body/history/old-002.jpg" alt="Auto repair history">
