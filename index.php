@@ -1,7 +1,7 @@
 
 <?php // Page data
 include_once("inc/config.php");
-$pageTitle = "Homepage"
+$pageTitle = "Homepage";
 $pageTitleTag = $siteName . " " . $pageTitle";
 $pageDescription = $siteName  . " " . $pageTitle";
 $pageKeywords = $pageTitle . "" . $siteKeywords;
