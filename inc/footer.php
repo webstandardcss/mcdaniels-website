@@ -16,7 +16,7 @@
         <i class="fa fa-facebook"></i>
       </a>
     </div>
-    <div class="block">&copy;&nbsp;Copyright&nbsp;&mdash;&nbsp;McDaniels&nbsp;Quality&nbsp;Body&nbsp;Works&nbsp;&mdash;&nbsp;East&nbsp;Texas &mdash;
+    <div class="block">&copy;&nbsp;Copyright&nbsp;<?php echo date('Y'); ?>&nbsp;&mdash;&nbsp;McDaniels&nbsp;Quality&nbsp;Body&nbsp;Works&nbsp;&mdash;&nbsp;East&nbsp;Texas &mdash;
       Web&nbsp;Design&nbsp;by&nbsp;<a href="http://rkvideo.tv">RK&nbsp;Productions</a>.
     </div>
   </p>
