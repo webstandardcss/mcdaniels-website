@@ -10,14 +10,18 @@
         <div class="column is-hidden-mobile"></div>
         <div class="column is-narrow mc-header-locations is-hidden-mobile">
           <div class="notification is-black-transparent has-text-centered">
-            <div><b>Longview</b></div>
-            <div class="is-size-7">404 E. Marshall<br />Longview, Texas 75601</div>
-            <p class="is-size-6"><b>903-758-5033</b></p>
+            <a href="directions-to-body-shop.php">
+              <div><b>Longview</b></div>
+              <div class="is-size-7">404 E. Marshall<br />Longview, Texas 75601</div>
+            </a>
+            <p class="is-size-6"><b><a href="tel:+19037585033">903-758-5033</a></b></p>
           </div>
           <div class="notification is-black-transparent has-text-centered">
-            <div><b>Kilgore</b></div>
-            <div class="is-size-7">1015 Hwy. 259 N.<br />Kilgore, Texas 75602</div>
-            <p class="is-size-6"><b>903-215-5099</b></p>
+            <a href="mcdaniels-kilgore-location.php">
+              <div><b>Kilgore</b></div>
+              <div class="is-size-7">1015 Hwy. 259 N.<br />Kilgore, Texas 75602</div>
+            </a>
+            <p class="is-size-6"><b><a href="tel:+19032155099">903-215-5099</a></b></p>
           </div>
         </div>
       </div>
