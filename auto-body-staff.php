@@ -190,28 +190,28 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
 </div>
 </div>
 <div class="staff-section section staff-office">
-  <h3 class="subtitle">Sales and Estimating Staff</h3>
-  <p class="block">Our sales and estimating staff have over 65 years of combined experience in the collision repair, automotive and insurance industries.</p>
-  <p class="block">We are here to provide you estimates, answer collision repair or insurance related questions and assist you with the smallest of scratch to that major collision.</p>
+  <h3 class="subtitle">Office Staff</h3>
+  <p class="block">Our office staff is led by Vice President and Office Manager, Cherie Smith.</p>
+  <p class="block">Cherie and her staff are here to help you coordinate payments, arrange for rental cars, set up a tow or answer any company accounting questions you may have.</p>
   <div class="columns is-multiline mc-staff-row">
     <div class="column is-half mc-staff-column">
       <article class="media box block">
         <figure class="media-left">
           <p class="image is-64x64">
-            <img src="images\staff-ronnie.jpg">
+            <img src="images\staff-cherie.jpg">
           </p>
         </figure>
         <div class="media-content">
           <div class="content">
             <p>
-              <strong>Ronnie Bagley</strong> <small>Estimator</small>
+              <strong>Cherie Smith</strong> <small>Office Manager</small>
               <br>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
             </p>
           </div>
           <nav class="level is-mobile">
             <div class="level-left">
-              <a class="level-item" href="mailto:ronnie-mcdaniels@sbcglobal.net">
+              <a class="level-item" href="mailto:cherie@mcdanielsqualitybodyworks.com">
                 <span class="icon is-small"><i class="fa fa-reply"></i></span>
               </a>
               <a class="level-item" href="tel:+19037585033">
@@ -232,20 +232,20 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <article class="media box block">
         <figure class="media-left">
           <p class="image is-64x64">
-            <img src="images\staff-ronnie.jpg">
+            <img src="images\staff-diana.jpg">
           </p>
         </figure>
         <div class="media-content">
           <div class="content">
             <p>
-              <strong>Ronnie Bagley</strong> <small>Estimator</small>
+              <strong>Diana Ezpinoza</strong> <small>Receptionist</small>
               <br>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
             </p>
           </div>
           <nav class="level is-mobile">
             <div class="level-left">
-              <a class="level-item" href="mailto:ronnie-mcdaniels@sbcglobal.net">
+              <a class="level-item" href="mailto:diana@mcdanielsqualitybodyworks.com">
                 <span class="icon is-small"><i class="fa fa-reply"></i></span>
               </a>
               <a class="level-item" href="tel:+19037585033">
