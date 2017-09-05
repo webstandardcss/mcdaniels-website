@@ -66,6 +66,18 @@ img.mc-logo-image {
   color: $primary;
 }
 
+.bd-emoji {
+  margin-right: 6px;
+}
+
+.bd-emoji.emoji-narrow {
+  margin-right: 8px;
+}
+
+.bd-emoji.emoji-wide {
+  margin-right: 2px;
+}
+
 /* Content Area Layout */
 
 .column.mc-content-body {
@@ -135,4 +147,21 @@ img.mc-logo-image {
     width: 180px;
     height: 180px;
   }
+}
+
+/* FAQ Page */
+.mc-faq dt {
+  font-size: 1.5em;
+  color: $primary;
+  margin-bottom: 1.25em;
+}
+
+.mc-faq dd {
+  font-size: 1.25em;
+  margin-bottom: 1.5em;
+}
+
+.mc-faq .mc-faq-active {
+  font-weight: 700;
+  color: $grey;
 }
