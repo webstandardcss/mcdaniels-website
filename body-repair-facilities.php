@@ -32,13 +32,13 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 
   <!-- 2. Add images to <div class="fotorama" data-nav="thumbs"></div>. -->
   <div class="fotorama" data-nav="thumbs">
-    <img src="images/auto-body/facilities/IMG_4115.JPG" alt="Auto Wheel repair">
-    <img src="images/auto-body/facilities/IMG_4116.JPG" alt="Truck Wheel repair">
+    <img src="images/auto-body/facilities/IMG_4115.JPG" alt="Auto Wheel alignment">
+    <img src="images/auto-body/facilities/IMG_4116.JPG" alt="John Bean Truck 4 Wheel alignment">
     <img src="images/auto-body/facilities/IMG_4117.JPG" alt="Minivan auto body shop">
     <img src="images/auto-body/facilities/IMG_4120.JPG" alt="Fixing rear end">
     <img src="images/auto-body/facilities/IMG_4122.JPG" alt="Auto body repair on lift">
     <img src="images/auto-body/facilities/IMG_4125.JPG" alt="Quality auto body repair">
-    <img src="images/auto-body/facilities/IMG_4131.JPG" alt="Car o liner lift">
+    <img src="images/auto-body/facilities/IMG_4131.JPG" alt="Car o liner spot welder">
     <img src="images/auto-body/facilities/IMG_4154.JPG" alt="Blowtherm paint booth">
     <img src="images/auto-body/facilities/new_IMG_4151.JPG" alt="Garmat USA 3000">
     <img src="images/auto-body/facilities/new_IMG_4153.JPG" alt="Garmat 3000">

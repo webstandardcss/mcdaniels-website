@@ -28,10 +28,9 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 
   <!-- 2. Add images to <div class="fotorama" data-nav="thumbs"></div>. -->
   <div class="fotorama" data-nav="thumbs">
-    <img src="images/auto-body/refinishing/IMG_4159.JPG" alt="Auto body history">
-    <img src="images/auto-body/refinishing/IMG_4160.JPG" alt="Auto repair history">
-    <img src="images/auto-body/refinishing/IMG_4175.JPG" alt="Old auto body shop">
-
+    <img src="images/auto-body/refinishing/IMG_4159.JPG" alt="Virtually every Sikkens tint / color imaginable">
+    <img src="images/auto-body/refinishing/IMG_4160.JPG" alt="Custom color mixing">
+    <img src="images/auto-body/refinishing/IMG_4175.JPG" alt="We paint with Sikkens Refinishing Products">
   </div>
 </div>
 
