@@ -21,7 +21,6 @@ $pageKeywords = $pageTitle . ",directions, Longview Texas" . $siteKeywords;
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:1%"></p>
       <div class="vcard">
-       <h1 class="note is-hidden-fullhd is-hidden-mobile">McDaniels Quality Body Works - Longview Auto Body Repair - Longview Auto Painting - Longview Collision Repair - Longview Body Shop</h1>
        <h4 class="org fn"><a href="index.php" class="url">McDaniels Quality Body Works</a></h4>
        <div class="adr"> <span class="street-address">404 E. Marshall</span> <span class="locality">Longview</span>, <span class="region">Texas</span>, <span class="postal-code">75601</span>
          <!-- .adr -->

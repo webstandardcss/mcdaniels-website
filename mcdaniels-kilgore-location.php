@@ -21,7 +21,6 @@ $pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $s
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:1%"></p>
       <div class="vcard">
-        <h1 class="note is-hidden-fullhd is-hidden-mobile">McDaniels Quality Body Works - Longview Auto Body Repair - Longview Auto Painting - Longview Collision Repair - Longview Body Shop</h1>
         <h4 class="org fn"><a href="index.php" class="url">McDaniels Quality Body Works</a></h4>
         <div class="adr"> <span class="street-address">1615 Hwy 259 N</span> <span class="locality">Kilgore</span>, <span class="region">Texas</span>, <span class="postal-code">75662</span>
           <!-- .adr -->
