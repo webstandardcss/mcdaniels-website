@@ -8,6 +8,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
 <?php include_once("inc/header.php"); ?>
+<?php include_once('inc/fotorama.php'); ?>
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
   <h1 class="title"><?php echo $pageTitle; ?></h1>
@@ -23,6 +24,14 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
       <p class="block">Sikkens offers one of the best <a href="body-repair-warranty.php">paint warranties</a> in the business. Any vehicle painted by McDaniel's is backed with a <a href="body-repair-warranty.php">paint workmanship warranty</a> for as long as you own the vehicle.</p>
       <p></p>
     </div>
+  </div>
+
+  <!-- 2. Add images to <div class="fotorama" data-nav="thumbs"></div>. -->
+  <div class="fotorama" data-nav="thumbs">
+    <img src="images/auto-body/refinishing/IMG_4159.JPG" alt="Auto body history">
+    <img src="images/auto-body/refinishing/IMG_4160.JPG" alt="Auto repair history">
+    <img src="images/auto-body/refinishing/IMG_4175.JPG" alt="Old auto body shop">
+
   </div>
 </div>
 
