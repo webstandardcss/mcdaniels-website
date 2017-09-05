@@ -82,5 +82,8 @@ $navbar-dropdown-item-active-background-color: $darker-background-color;
 $navbar-item-active-color: $primary;
 $navbar-dropdown-item-active-color: $primary;
 
+// vertical menu colors
+$menu-item-hover-color: $black;
+
 @import "../node_modules/bulma/bulma";
 @import "custom.scss";
