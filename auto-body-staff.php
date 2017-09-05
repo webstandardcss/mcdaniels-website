@@ -8,7 +8,21 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
 
 <?php include_once("inc/header.php"); ?>
 
-<div class="column mc-content-body section">
+<div class="column is-narrow" id="top">
+  <aside class="menu" style="position: fixed; left: 0px;">
+    <p class="menu-label">
+      Departments
+    </p>
+    <ul class="menu-list">
+      <li><a href="#staff-sales">Sales</a></li>
+      <li><a href="#staff-office">Office</a></li>
+      <li><a href="#staff-managers">Managers</a></li>
+      <li><a href="#staff-production">Production</a></li>
+      <li><a href="#staff-refinishing">Refinishing</a></li>
+    </ul>
+  </aside>
+</div>
+<div class="column mc-content-body section" id="staff-sales">
   <h1 class="title"><?php echo $pageTitleTag; ?></h1>
   <!-- h2 class="subtitle"></h2 -->
   <div class="staff-section staff-sales">
@@ -189,7 +203,8 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
     </div>
   </div>
-  <div class="staff-section section staff-office">
+  <a href="#top">Back to Top</a>
+  <div class="staff-section section staff-office" id="staff-office">
       <h3 class="subtitle">Office Staff</h3>
       <p class="block">Our office staff is led by Vice President and Office Manager, Cherie Smith.</p>
       <p class="block">Cherie and her staff are here to help you coordinate payments, arrange for rental cars, set up a tow or answer any company accounting questions you may have.</p>
@@ -264,7 +279,8 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         </div>
       </div>
     </div>
-  <div class="staff-section section staff-managers">
+  <a href="#top">Back to Top</a>
+  <div id="staff-managers" class="staff-section section staff-managers">
       <h3 class="subtitle">Production Managers</h3>
       <p class="block">Our Production Managers have over 70 years of combined experience, all with McDaniel’s Quality Body Works!</p>
       <p class="block">Each Production Manager has his own team of technicians he will work closely with, to ensure you receive the best possible repair.</p>
@@ -397,7 +413,8 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         </div>
       </div>
     </div>
-  <div class="staff-section section staff-production">
+  <a href="#top">Back to Top</a>
+  <div id="staff-production" class="staff-section section staff-production">
       <h3 class="subtitle">Production Staff</h3>
       <p class="block">Our repair technicians have over 250 years of combined experience in the collision repair industry!</p>
       <p class="block">With this type of experience in our shop, you have a better chance of having a technician perform a repair on your vehicle that he has successfully completed on other vehicles like yours, several times.</p>
@@ -429,14 +446,14 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
     </div>
   </div>
-  <div class="staff-section section staff-refinishing">
+  <a href="#top">Back to Top</a>
+  <div id="staff-refinishing" class="staff-section section staff-refinishing">
   <h3 class="subtitle">Refinish department</h3>
   <p class="block">Our paint department, led by Manager Melvin Coby and our 5 full time painters, have over 100 years of combined experience.</p>
   <p class="block">All have I-CAR training and some have attended various paint manufacture training classes.</p>
   <p class="block">Our paint department is also staffed with several prep technicians that are able to work multiple jobs, keeping our painters in the booth as much as possible.</p>
   <div class="columns is-multiline mc-staff-row">
     <div class="column is-half mc-staff-column">
-
       <div class="content box">
         <img src="images\staff-melvin.jpg">
         <p>
@@ -446,19 +463,20 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         </p>
       </div>
 
-      </div>
-      <div class="column is-half mc-staff-column">
-        <div class="content box">
-          <img src="images\staff-refinishtechs.jpg">
-          <p>
-            <br><strong>Refinish Department Staff</strong><br><br>
-            <small> <?php echo $siteName; ?></small><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-          </p>
+    </div>
+    <div class="column is-half mc-staff-column">
+      <div class="content box">
+        <img src="images\staff-refinishtechs.jpg">
+        <p>
+          <br><strong>Refinish Department Staff</strong><br><br>
+          <small> <?php echo $siteName; ?></small><br>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+        </p>
         </div>
       </div>
     </div>
   </div>
+  <a href="#top">Back to Top</a>
 </div>
 
 <?php include_once("inc/footer.php"); ?>
