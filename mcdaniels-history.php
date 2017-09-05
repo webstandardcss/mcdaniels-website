@@ -12,8 +12,8 @@ $pageKeywords = $pageTitle . ",history" . $siteKeywords;
 <div class="column mc-content-body section">
   <div class="columns is-flex-mobile">
     <div class="column"><img src="images/history-1-vl.jpg" alt="VL McDaniels"></div>
-    <div class="column"><img src="images/history-2-richard.jpg" alt="Richard McDaniels"></div>
-    <div class="column"><img src="images/history-3-dickie.jpg" alt="Dickie McDaniels"></div>
+    <div class="column is-hidden-mobile"><img src="images/history-2-richard.jpg" alt="Richard McDaniels"></div>
+    <div class="column is-hidden-mobile"><img src="images/history-3-dickie.jpg" alt="Dickie McDaniels"></div>
     <div class="column"><img src="images/history-4-darrell.jpg" alt="Darrell Smith"></div>
   </div>
   <div>
