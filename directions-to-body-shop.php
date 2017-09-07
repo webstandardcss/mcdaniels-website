@@ -11,7 +11,7 @@ $pageKeywords = $pageTitle . ",directions, Longview Texas" . $siteKeywords;
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
   <h1 class="title"><?php echo $pageTitle; ?></h1>
-  <h2 class="subtitle">Auto Body Repair Warranty in Longview Texas</h2>
+  <h2 class="subtitle">Also visit our <a href="/mcdaniels-kilgore-location.php">Kilgore Texas Auto Body Shop</a></h2>
   <div class="columns">
     <div class="column is-narrow">
       <a href="mcdaniels-kilgore-location.php" target="_blank" class="image sidebar-image">
@@ -42,7 +42,7 @@ $pageKeywords = $pageTitle . ",directions, Longview Texas" . $siteKeywords;
       <p class="block"></p>
     </div>
   </div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d1001.5503395038198!2d-94.85502098035244!3d32.39771289066999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d32.397989599999995!2d-94.8551411!5e0!3m2!1sen!2sus!4v1497983676654" width="400" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+<iframe width="500" height="550" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ111FO4Q4NoYRZjnBG-oSNsg&key=AIzaSyCZPs9miCbQUjEn5IrCmfpwLPmDFyQxOAQ" allowfullscreen></iframe>
 </div>
 
 <?php include_once("inc/footer.php"); ?>

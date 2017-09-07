@@ -11,7 +11,7 @@ $pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $s
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
   <h1 class="title"><?php echo $pageTitle; ?></h1>
-  <h2 class="subtitle">McDaniel's Quality Body Work's new location is now open at All-Star Ford in Kilgore TX.</h2>
+  <h2 class="subtitle">Also visit our <a href="/directions-to-body-shop.php">Longview Texas Auto Body Shop</a></h2>
   <div class="columns">
     <div class="column is-narrow">
       <a href="directions-to-body-shop.php" target="_blank" class="image sidebar-image">
