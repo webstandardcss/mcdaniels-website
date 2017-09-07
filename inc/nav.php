@@ -4,7 +4,7 @@
       <img src="images/logo-sm.png" alt="McDaniels Body Repair">
     </a>
 
-    <a class="navbar-item is-hidden-desktop" href="https://facebook.com/" target="_blank">
+    <a class="navbar-item is-hidden-desktop" href="<?php echo $siteFacebookURL; ?>" target="_blank">
       <span class="icon" style="color: #fff;">
         <i class="fa fa-facebook"></i>
       </span>
@@ -124,7 +124,7 @@
     </div>
 
     <div class="navbar-end">
-      <a class="navbar-item is-hidden-touch" href="https://facebook.com/" target="_blank">
+      <a class="navbar-item is-hidden-touch" href="<?php echo $siteFacebookURL; ?>" target="_blank">
         <span class="icon" style="color: #fff;">
           <i class="fa fa-facebook"></i>
         </span>

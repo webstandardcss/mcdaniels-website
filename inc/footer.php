@@ -19,7 +19,7 @@
       <a href="/body-repair-warranty.php">Warranty</a>&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
       <a href="http://validator.w3.org/check?uri=referer" class="html is-hidden-tablet" title="html">xhtml</a>&nbsp;
       <a href="http://jigsaw.w3.org/css-validator/check/referer" class="css is-hidden-tablet" title="css">css</a>&nbsp;
-      <a class="icon" href="https://facebook.com/">
+      <a class="icon" href="<?php echo $siteFacebookURL; ?>">
         <i class="fa fa-facebook"></i>
       </a>
     </div>

@@ -3,6 +3,7 @@ $siteName = "McDaniel's Auto Painting and Body Work";
 $siteTwitter = "@mcdanielsqbw";
 $siteKeywords = ",auto,body shop,auto painting";
 $siteFacebookAdmin = "Facebook admin numeric ID";
+$siteFacebookURL = "https://www.facebook.com/mcdanielsqualitybodyworks/";
 // $siteHost = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://" . $_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI];
 $siteHost = "http://" . $_SERVER[HTTP_HOST];
 $pageURL = $siteHost . $_SERVER[REQUEST_URI];
