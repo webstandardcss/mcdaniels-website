@@ -52,6 +52,10 @@ img.mc-logo-image {
 
 /* Navbar Layout */
 
+.navbar {
+  z-index: 10;
+}
+
 .navbar-scrolled {
   position: fixed;
   width: 100%;
@@ -103,7 +107,6 @@ img.mc-logo-image {
 
 .footer, .footer * {
   color: $footer-color;
-  z-index: -10;
   position: relative;
 }
 
