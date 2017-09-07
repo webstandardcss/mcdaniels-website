@@ -158,6 +158,12 @@ img.mc-logo-image {
   font-size: 1.5em;
   color: $primary;
   margin-bottom: 1.25em;
+  cursor: pointer;
+}
+
+
+.mc-faq dt:hover {
+  color: white;
 }
 
 .mc-faq dd {
