@@ -11,12 +11,12 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 <?php // .columns.is-multiline.home-buttons.is-mobile.is-hidden-desktop.is-gapless.has-text-centered.is-size-5.is-size-6-mobile>.column.is-one-third.home-buttons-column.home-buttons-column-$*6>img[src="images/icon-home-estimates.png" alt="Estimates"]+span.icon-home-label.icon-home-label-${Estimates} ?>
 <div class="column mc-content-body section">
   <div class="columns is-multiline home-buttons is-mobile is-hidden-desktop is-gapless has-text-centered is-size-5 is-size-6-mobile">
-    <div class="column is-one-third home-buttons-column home-buttons-column-1"><img src="images/icon-home-estimates.png" alt="Estimates"><span class="icon-home-label icon-home-label-1">Estimates</span></div>
-    <div class="column is-one-third home-buttons-column home-buttons-column-2"><img src="images/icon-home-faq.png" alt="Accident FAQ&rsquo;s"><span class="icon-home-label icon-home-label-2">Accident FAQ&rsquo;s</span></div>
-    <div class="column is-one-third home-buttons-column home-buttons-column-3"><img src="images/icon-home-warranty.png" alt="Warranty"><span class="icon-home-label icon-home-label-3">Warranty</span></div>
-    <div class="column is-one-third home-buttons-column home-buttons-column-4"><img src="images/icon-home-location.png" alt="Directions"><span class="icon-home-label icon-home-label-4">Directions</span></div>
-    <div class="column is-one-third home-buttons-column home-buttons-column-5"><img src="images/icon-home-icar.png" alt="I-Car Gold Training"><span class="icon-home-label icon-home-label-5">I-Car Gold Training</span></div>
-    <div class="column is-one-third home-buttons-column home-buttons-column-6"><img src="images/icon-home-history.png" alt="History"><span class="icon-home-label icon-home-label-6">History</span></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-1"><a href="/auto-body-estimates.php"><img src="images/icon-home-estimates.png" alt="Estimates"><span class="icon-home-label icon-home-label-1">Estimates</span></a></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-2"><a href="/accidents.php"><img src="images/icon-home-faq.png" alt="Accident FAQ&rsquo;s"><span class="icon-home-label icon-home-label-2">Accident FAQ&rsquo;s</span></a></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-3"><a href="/body-repair-warranty.php"><img src="images/icon-home-warranty.png" alt="Warranty"><span class="icon-home-label icon-home-label-3">Warranty</span></a></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-4"><a href="/directions-to-body-shop.php"><img src="images/icon-home-location.png" alt="Directions"><span class="icon-home-label icon-home-label-4">Directions</span></a></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-5"><a href="/i-car-gold-training.php"><img src="images/icon-home-icar.png" alt="I-Car Gold Training"><span class="icon-home-label icon-home-label-5">I-Car Gold Training</span></a></div>
+    <div class="column is-one-third home-buttons-column home-buttons-column-6"><a href="/mcdaniels-history.php"><img src="images/icon-home-history.png" alt="History"><span class="icon-home-label icon-home-label-6">History</span></a></div>
   </div>
   <div>
     <h1 class="title">Welcome to McDaniel&rsquo;s Quality Body Works</h1>
