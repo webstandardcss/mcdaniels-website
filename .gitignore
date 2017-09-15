@@ -28,6 +28,7 @@ package-lock.json
 
 # Logs and databases #
 ######################
+error_log
 *.log
 *.sql
 *.sqlite
