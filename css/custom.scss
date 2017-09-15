@@ -9,19 +9,17 @@
 }
 
 img.mc-logo-image {
-  max-width: 300px;
-}
-
-.mc-logo-image {
   position: relative;
   @include mq('phone') {
     left: 50%;
+    max-width: 300px;
   }
   @include mq('phone-plus') {
     left: 2rem;
+    max-width: 400px;
   }
   @include mq('tablet') {
-    top: 2rem;
+    //top: 2rem;
     left: 5rem;
   }
   @include mq('desktop') {
