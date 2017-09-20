@@ -42,14 +42,14 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Darrell Smith</strong> <small>President</small>
                 <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 <br><br>
               </p>
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
                 <a class="level-item" href="mailto:darrell@mcdanielsqualitybodyworks.com">
-                  <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
                   <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -77,13 +77,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Ronnie Bagley</strong> <small>Estimator</small>
                 <br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
               </p>
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
                 <a class="level-item" href="mailto:ronnie-mcdaniels@sbcglobal.net">
-                  <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
                   <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -111,13 +111,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Elvis Martinez</strong> <small>Estimator</small>
                 <br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
               </p>
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
                 <a class="level-item" href="mailto:elvis@mcdanielsqualitybodyworks.com">
-                  <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
                   <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -145,13 +145,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Johnny Gunn</strong> <small>Estimator</small>
                 <br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
               </p>
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
                 <a class="level-item" href="mailto:johnny@mcdanielsqualitybodyworks.com">
-                  <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
                   <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -179,13 +179,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Jamie Haynes</strong> <small>Sales Assistant</small>
                 <br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
               </p>
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
                 <a class="level-item" href="mailto:jamie@mcdanielsqualitybodyworks.com">
-                  <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
                   <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -221,13 +221,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>Cherie Smith</strong> <small>Office Manager</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
                 <div class="level-left">
                   <a class="level-item" href="mailto:cherie@mcdanielsqualitybodyworks.com">
-                    <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                    Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037585033">
                     <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -255,13 +255,13 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>Diana Ezpinoza</strong> <small>Receptionist</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
                 <div class="level-left">
                   <a class="level-item" href="mailto:diana@mcdanielsqualitybodyworks.com">
-                    <span class="icon is-small"><i class="fa fa-reply"></i></span>
+                    Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037585033">
                     <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
@@ -299,7 +299,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>Gary Graff</strong> <small>Production Manager</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
@@ -330,7 +330,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>Bubba May</strong> <small>Production Manager</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
@@ -361,7 +361,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>Craig Todd</strong> <small>Production Manager</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
@@ -392,7 +392,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
                 <p>
                   <strong>J.R. Hodges</strong> <small>Production Manager</small>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
               </div>
               <nav class="level is-mobile">
@@ -428,7 +428,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <p>
                 <strong>Body Technician Staff</strong><br>
                 <small> <?php echo $siteName; ?></small><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
               </p>
             </div>
 
@@ -440,7 +440,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <p>
             <strong>Detail Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+            <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
           </p>
         </div>
       </div>
@@ -459,7 +459,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <p>
           <strong>Melvin Coby</strong><br>
           <small>Refinish Production Manager</small><br>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+          <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
         </p>
       </div>
 
@@ -470,7 +470,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <p>
           <br><strong>Refinish Department Staff</strong><br><br>
           <small> <?php echo $siteName; ?></small><br>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+          <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
         </p>
         </div>
       </div>
