@@ -468,7 +468,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <div class="content box">
         <img src="images\staff-refinishtechs.jpg">
         <p>
-          <br><strong>Refinish Department Staff</strong><br><br>
+          <br><strong>Refinish Department Staff</strong><br>
           <small> <?php echo $siteName; ?></small><br>
           <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
         </p>
