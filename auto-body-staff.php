@@ -48,7 +48,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
-                <a class="level-item" href="mailto:darrell@mcdanielsqualitybodyworks.com">
+                <a class="mc-email" href="mailto:darrell@mcdanielsqualitybodyworks.com">
                   Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
@@ -82,7 +82,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
-                <a class="level-item" href="mailto:ronnie-mcdaniels@sbcglobal.net">
+                <a class="mc-email" href="mailto:ronnie-mcdaniels@sbcglobal.net">
                   Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
@@ -116,7 +116,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
-                <a class="level-item" href="mailto:elvis@mcdanielsqualitybodyworks.com">
+                <a class="mc-email" href="mailto:elvis@mcdanielsqualitybodyworks.com">
                   Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
@@ -150,7 +150,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
-                <a class="level-item" href="mailto:johnny@mcdanielsqualitybodyworks.com">
+                <a class="mc-email" href="mailto:johnny@mcdanielsqualitybodyworks.com">
                   Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
@@ -184,7 +184,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div>
             <nav class="level is-mobile">
               <div class="level-left">
-                <a class="level-item" href="mailto:jamie@mcdanielsqualitybodyworks.com">
+                <a class="mc-email" href="mailto:jamie@mcdanielsqualitybodyworks.com">
                   Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                 </a>
                 <a class="level-item" href="tel:+19037585033">
@@ -226,7 +226,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               </div>
               <nav class="level is-mobile">
                 <div class="level-left">
-                  <a class="level-item" href="mailto:cherie@mcdanielsqualitybodyworks.com">
+                  <a class="mc-email" href="mailto:cherie@mcdanielsqualitybodyworks.com">
                     Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037585033">
@@ -260,7 +260,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               </div>
               <nav class="level is-mobile">
                 <div class="level-left">
-                  <a class="level-item" href="mailto:diana@mcdanielsqualitybodyworks.com">
+                  <a class="mc-email" href="mailto:diana@mcdanielsqualitybodyworks.com">
                     Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037585033">

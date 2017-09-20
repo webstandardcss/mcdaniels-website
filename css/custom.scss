@@ -151,6 +151,11 @@ img.mc-logo-image {
   padding-bottom: 2.25rem;
 }
 
+
+.mc-email {
+  margin-right: 2.25rem;
+}
+
 .mc-staff-column .image {
   @include mq($to: tablet) {
     margin: 0 auto 69px auto;
