@@ -43,7 +43,7 @@
             History
           </a>
           <a class="navbar-item " href="/body-repair-facilities.php">
-            <span class="bd-emoji">🎨</span>
+            <span class="bd-emoji">🏢</span>
             Facilities
           </a>
           <a class="navbar-item " href="/thank-you.php">
