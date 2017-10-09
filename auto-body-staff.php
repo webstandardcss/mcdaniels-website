@@ -137,7 +137,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff-johnny.jpg">
+              <img src="images\staff\johnny_gunn.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -171,7 +171,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff-jamie.jpg">
+              <img src="images\staff\jamie_haynes.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -247,7 +247,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff-diana.jpg">
+                <img src="images\staff\diana_espinoza.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -424,7 +424,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <div class="column is-half mc-staff-column">
 
             <div class="content box">
-              <img src="images\staff-bodytechs.jpg">
+              <img src="images\staff\mcdaniels_body_tech.jpg">
               <p>
                 <strong>Body Technician Staff</strong><br>
                 <small> <?php echo $siteName; ?></small><br>
@@ -436,7 +436,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff-detailtechs.jpg">
+          <img src="images\staff\mcdaniels_detail_crew.jpg">
           <p>
             <strong>Detail Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
