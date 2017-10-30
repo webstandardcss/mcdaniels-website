@@ -171,6 +171,74 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
+              <img src="images\staff\david_sledge.jpg">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>David Sledge</strong> <small>Estimator</small>
+                <br>
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+              </p>
+            </div>
+            <nav class="level is-mobile">
+              <div class="level-left">
+                <a class="mc-email" href="mailto:@mcdanielsqualitybodyworks.com">
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
+                </a>
+                <a class="level-item" href="tel:+19037585033">
+                  <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
+                </a>
+                <a class="level-item" href="#">
+                  <span class="icon is-small"><i class="fa fa-address-book"></i></span>
+                </a>
+              </div>
+            </nav>
+          </div>
+          <!-- div class="media-right">
+            <button class="delete"></button>
+          </div -->
+        </article>
+      </div>
+      <div class="column is-half mc-staff-column">
+        <article class="media box block">
+          <figure class="media-left">
+            <p class="image is-64x64">
+              <img src="images\staff\josh_winberly.jpg">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Josh Winberly</strong> <small>Estimator - Kilgore</small>
+                <br>
+                <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+              </p>
+            </div>
+            <nav class="level is-mobile">
+              <div class="level-left">
+                <a class="mc-email" href="mailto:@mcdanielsqualitybodyworks.com">
+                  Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
+                </a>
+                <a class="level-item" href="tel:+19037585033">
+                  <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
+                </a>
+                <a class="level-item" href="#">
+                  <span class="icon is-small"><i class="fa fa-address-book"></i></span>
+                </a>
+              </div>
+            </nav>
+          </div>
+          <!-- div class="media-right">
+            <button class="delete"></button>
+          </div -->
+        </article>
+      </div>
+      <div class="column is-half mc-staff-column">
+        <article class="media box block">
+          <figure class="media-left">
+            <p class="image is-64x64">
               <img src="images\staff\jamie_haynes.jpg">
             </p>
           </figure>
