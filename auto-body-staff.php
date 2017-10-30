@@ -448,33 +448,33 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
   </div>
   <a href="#top">Back to Top</a>
   <div id="staff-refinishing" class="staff-section section staff-refinishing">
-  <h3 class="subtitle">Refinish department</h3>
-  <p class="block">Our paint department, led by Manager Melvin Coby and our 5 full time painters, have over 100 years of combined experience.</p>
-  <p class="block">All have I-CAR training and some have attended various paint manufacture training classes.</p>
-  <p class="block">Our paint department is also staffed with several prep technicians that are able to work multiple jobs, keeping our painters in the booth as much as possible.</p>
-  <div class="columns is-multiline mc-staff-row">
-    <div class="column is-half mc-staff-column">
-      <div class="content box">
-        <img src="images\staff-melvin.jpg">
-        <p>
-          <strong>Melvin Coby</strong><br>
-          <small>Refinish Production Manager</small><br>
-          <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
-        </p>
+    <h3 class="subtitle">Refinish department</h3>
+    <p class="block">Our paint department, led by Manager Melvin Coby and our 5 full time painters, have over 100 years of combined experience.</p>
+    <p class="block">All have I-CAR training and some have attended various paint manufacture training classes.</p>
+    <p class="block">Our paint department is also staffed with several prep technicians that are able to work multiple jobs, keeping our painters in the booth as much as possible.</p>
+    <div class="columns is-multiline mc-staff-row">
+      <div class="column is-half mc-staff-column">
+        <div class="content box">
+          <img src="images\staff-melvin.jpg">
+          <p>
+            <strong>Melvin Coby</strong><br>
+            <small>Refinish Production Manager</small><br>
+            <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+          </p>
+        </div>
       </div>
-    </div>
-    <div class="column is-half mc-staff-column">
-      <div class="content box">
-        <img src="images\staff\kilgore_mcdaniels_paint_staff.jpg">
-        <p>
-          <br><br><strong>Refinish Department Staff</strong><br>
-          <small> <?php echo $siteName; ?></small><br>
-          <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
-        </p>
+      <div class="column is-half mc-staff-column">
+        <div class="content box">
+          <img src="images\staff\kilgore_mcdaniels_paint_staff.jpg">
+          <p>
+            <br><br><strong>Refinish Department Staff</strong><br>
+            <small> <?php echo $siteName; ?></small><br>
+            <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+          </p>
         </div>
       </div>
     </div>
-</div>
+  </div>
   <a href="#top">Back to Top</a>
   <div id="staff-paint-kilgore" class="staff-section section staff-paint-kilgore">
     <h3 class="subtitle">Kilgore Paint Staff</h3>
