@@ -444,6 +444,26 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           </p>
         </div>
       </div>
+      <div class="column is-half mc-staff-column">
+        <div class="content box">
+          <img src="images\staff\maintenance_staff_mcdaniels.jpg">
+          <p>
+            <strong>Maintenance staff</strong><br>
+            <small> <?php echo $siteName; ?></small><br>
+            <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+          </p>
+        </div>
+      </div>
+      <div class="column is-half mc-staff-column">
+        <div class="content box">
+          <img src="images\staff\mcdaniels_kilgore_technicians.jpg">
+          <p>
+            <strong>Kilgore Body Technician Staff</strong><br>
+            <small> <?php echo $siteName; ?></small><br>
+            <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+          </p>
+        </div>
+      </div>
     </div>
   </div>
   <a href="#top">Back to Top</a>
