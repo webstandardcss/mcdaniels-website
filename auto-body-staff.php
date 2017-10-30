@@ -253,7 +253,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             <div class="media-content">
               <div class="content">
                 <p>
-                  <strong>Diana Ezpinoza</strong> <small>Receptionist</small>
+                  <strong>Diana Espinoza</strong> <small>Receptionist</small>
                   <br>
                   <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
