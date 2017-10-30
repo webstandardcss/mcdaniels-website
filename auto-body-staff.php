@@ -465,7 +465,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
     </div>
     <div class="column is-half mc-staff-column">
       <div class="content box">
-        <img src="images\kilgore_mcdaniels_paint_staff.jpg">
+        <img src="images\staff\kilgore_mcdaniels_paint_staff.jpg">
         <p>
           <br><br><strong>Refinish Department Staff</strong><br>
           <small> <?php echo $siteName; ?></small><br>
@@ -484,7 +484,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
     <div class="columns is-multiline mc-staff-row">
       <div class="column is-12 mc-staff-column">
         <div class="content box">
-          <img src="images\kilgore_mcdaniels_paint_staff.jpg">
+          <img src="images\staff\kilgore_mcdaniels_paint_staff.jpg">
           <p>
             <br><br><strong>Paint Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
