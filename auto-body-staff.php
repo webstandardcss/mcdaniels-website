@@ -25,7 +25,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
 <div class="column mc-content-body section" id="staff-sales">
   <h1 class="title"><?php echo $pageTitleTag; ?></h1>
   <!-- h2 class="subtitle"></h2 -->
-  <div class="staff-section staff-sales">
+  <div class="staff-section section staff-sales">
       <h3 class="subtitle">Sales and Estimating Staff</h3>
       <p class="block">Our sales and estimating staff have over 65 years of combined experience in the collision repair, automotive and insurance industries.</p>
       <p class="block">We are here to provide you estimates, answer collision repair or insurance related questions and assist you with the smallest of scratch to that major collision.</p>
@@ -277,10 +277,10 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <p class="block">Our office staff is led by Vice President and Office Manager, Cherie Smith.</p>
       <p class="block">Cherie and her staff are here to help you coordinate payments, arrange for rental cars, set up a tow or answer any company accounting questions you may have.</p>
       <div class="columns is-multiline mc-staff-row">
-        <div class="column is-half mc-staff-column">
+        <div class="column is-12 mc-staff-column">
           <article class="media box block">
             <figure class="media-left">
-              <p class="image is-64x64">
+              <p class="image is-128x128" style="margin-bottom:12px;">
                 <img src="images\staff-cherie.jpg">
               </p>
             </figure>
@@ -329,6 +329,40 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <nav class="level is-mobile">
                 <div class="level-left">
                   <a class="mc-email" href="mailto:diana@mcdanielsqualitybodyworks.com">
+                    Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
+                  </a>
+                  <a class="level-item" href="tel:+19037585033">
+                    <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
+                  </a>
+                  <a class="level-item" href="#">
+                    <span class="icon is-small"><i class="fa fa-address-book"></i></span>
+                  </a>
+                </div>
+              </nav>
+            </div>
+            <!-- div class="media-right">
+              <button class="delete"></button>
+            </div -->
+          </article>
+        </div>
+        <div class="column is-half mc-staff-column">
+          <article class="media box block">
+            <figure class="media-left">
+              <p class="image is-64x64">
+                <img src="images\staff\sharla_roberts.jpg">
+              </p>
+            </figure>
+            <div class="media-content">
+              <div class="content">
+                <p>
+                  <strong>Sharla Roberts</strong> <small>Invoicing</small>
+                  <br>
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+                </p>
+              </div>
+              <nav class="level is-mobile">
+                <div class="level-left">
+                  <a class="mc-email" href="mailto:@mcdanielsqualitybodyworks.com">
                     Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037585033">
