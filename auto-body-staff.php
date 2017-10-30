@@ -19,7 +19,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <li><a href="#staff-managers">Managers</a></li>
       <li><a href="#staff-production">Production</a></li>
       <li><a href="#staff-refinishing">Refinishing</a></li>
-      <li><a href="#staff-paint-kilgore">Kilgore Paint Shop</a></li>
+      <li><a href="#staff-paint-kilgore">Kilgore Paint</a></li>
     </ul>
   </aside>
 </div>
