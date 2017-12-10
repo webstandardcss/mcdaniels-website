@@ -43,9 +43,10 @@ $pageKeywords = $pageTitle . ",questions,help,faq,Frequently asked questions" . 
            repairs, otherwise we can accommodate drops offs, in most cases. Scheduling your repairs
            after your parts have been received is our most efficient process.</dd>
          <dt>The insurance company made my repair check out to my lien holder, what do I do?</dt>
-         <dd>Some insurance companies choose to protect your lien holder when you have an accident.
-           Bring the check to us before we start repairs and we will take care of obtaining their
-           endorsement.</dd>
+         <dd>Some insurance companies choose to make claim payments co-payable to the vehicle lienholder.
+           In this case, you must obtain the lienholder ‘s signature prior to picking up your vehicle.
+           If you would like our assistance in obtaining the signature, there is a $75.00 fee
+           to cover postage/handling and the check must be presented to us when you schedule repairs. </dd>
          <dt>Is my vehicle a total if it has frame damage?</dt>
          <dd>No. Vehicle makers design frames to be repaired providing the shop has the proper
            equipment and follows correct procedures. If the shop determines the frame needs to
