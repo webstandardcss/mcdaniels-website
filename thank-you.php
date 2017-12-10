@@ -14,7 +14,7 @@ $pageKeywords = $pageTitle . " " . $siteKeywords;
   <h2 class="subtitle">Thank You for using McDaniel's Quality Body Works Collision Repair Shop in Longview and Kilgore Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <img src="images\sidebar-thank-you.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
+      <img src="images/sidebar-thank-you.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
     </div>
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:0"></p>

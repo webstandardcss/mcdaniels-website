@@ -35,7 +35,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-128x128">
-              <img src="images\staff-darrell.jpg">
+              <img src="images/staff-darrell.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -70,7 +70,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff-ronnie.jpg">
+              <img src="images/staff-ronnie.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -104,7 +104,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff-elvis.jpg">
+              <img src="images/staff-elvis.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -138,7 +138,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff\johnny_gunn.jpg">
+              <img src="images/staff/johnny_gunn.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -172,7 +172,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff\david_sledge.jpg">
+              <img src="images/staff/david_sledge.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -206,7 +206,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff\josh_winberly.jpg">
+              <img src="images/staff/josh_winberly.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -240,7 +240,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
         <article class="media box block">
           <figure class="media-left">
             <p class="image is-64x64">
-              <img src="images\staff\jamie_haynes.jpg">
+              <img src="images/staff/jamie_haynes.jpg">
             </p>
           </figure>
           <div class="media-content">
@@ -282,7 +282,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-128x128" style="margin-bottom:12px;">
-                <img src="images\staff-cherie.jpg">
+                <img src="images/staff-cherie.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -316,7 +316,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff\diana_espinoza.jpg">
+                <img src="images/staff/diana_espinoza.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -351,7 +351,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff\marisol_sanchez.jpg">
+                <img src="images/staff/marisol_sanchez.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -385,7 +385,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff\sharla_roberts.jpg">
+                <img src="images/staff/sharla_roberts.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -429,7 +429,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff-gary.jpg">
+                <img src="images/staff-gary.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -460,7 +460,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff-bubba.jpg">
+                <img src="images/staff-bubba.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -491,7 +491,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff-craig.jpg">
+                <img src="images/staff-craig.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -522,7 +522,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
           <article class="media box block">
             <figure class="media-left">
               <p class="image is-64x64">
-                <img src="images\staff-jr.jpg">
+                <img src="images/staff-jr.jpg">
               </p>
             </figure>
             <div class="media-content">
@@ -562,7 +562,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <div class="column is-half mc-staff-column">
 
             <div class="content box">
-              <img src="images\staff\mcdaniels_body_tech.jpg">
+              <img src="images/staff/mcdaniels_body_tech.jpg">
               <p>
                 <strong>Body Technician Staff</strong><br>
                 <small> <?php echo $siteName; ?></small><br>
@@ -574,7 +574,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff\mcdaniels_detail_crew.jpg">
+          <img src="images/staff/mcdaniels_detail_crew.jpg">
           <p>
             <strong>Detail Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
@@ -584,7 +584,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff\maintenance_staff_mcdaniels.jpg">
+          <img src="images/staff/maintenance_staff_mcdaniels.jpg">
           <p>
             <strong>Maintenance staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
@@ -594,7 +594,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff\mcdaniels_kilgore_technicians.jpg">
+          <img src="images/staff/mcdaniels_kilgore_technicians.jpg">
           <p>
             <strong>Kilgore Body Technician Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
@@ -613,7 +613,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
     <div class="columns is-multiline mc-staff-row">
       <div class="column is-12 mc-staff-column">
         <div class="content box">
-          <img src="images\staff-melvin.jpg">
+          <img src="images/staff-melvin.jpg">
           <p>
             <strong>Melvin Coby</strong><br>
             <small>Refinish Production Manager</small><br>
@@ -623,7 +623,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff\mcdaniels_paint_shop.jpg">
+          <img src="images/staff/mcdaniels_paint_shop.jpg">
           <p>
             <br><br><strong>Refinish Department Staff</strong><br>
             <small> <?php echo $siteName; ?></small><br>
@@ -633,7 +633,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       </div>
       <div class="column is-half mc-staff-column">
         <div class="content box">
-          <img src="images\staff\kilgore_mcdaniels_paint_staff.jpg">
+          <img src="images/staff/kilgore_mcdaniels_paint_staff.jpg">
           <p>
             <br><br><strong>Kilgore Paint Staff</strong><br>
             <small>McDaniel's Paint Staff at our new location in Kilgore TX</small><br>

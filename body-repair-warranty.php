@@ -14,13 +14,13 @@ $pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $s
   <h2 class="subtitle">Auto Body Repair Warranty in Longview Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <a href="images\auto-body-repair-warranty.pdf" target="_blank" class="image sidebar-image">
-        <img src="images\sidebar-lifetime-warranty.gif" alt="<?php echo $pageTitle; ?>">
+      <a href="images/auto-body-repair-warranty.pdf" target="_blank" class="image sidebar-image">
+        <img src="images/sidebar-lifetime-warranty.gif" alt="<?php echo $pageTitle; ?>">
       </a>
     </div>
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:7%"></p>
-      <p class="block"><strong>We gladly offer a limited Lifetime Warranty</strong> on all workmanship including metalwork, welding and refinishing. We have attached a copy of our <a href="images\auto-body-repair-warranty.pdf" target="_blank">written warranty</a> for your review.</p>
+      <p class="block"><strong>We gladly offer a limited Lifetime Warranty</strong> on all workmanship including metalwork, welding and refinishing. We have attached a copy of our <a href="images/auto-body-repair-warranty.pdf" target="_blank">written warranty</a> for your review.</p>
       <p></p>
     </div>
   </div>

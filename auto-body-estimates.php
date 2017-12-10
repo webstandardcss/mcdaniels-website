@@ -14,7 +14,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
   <h2 class="subtitle">Get a Paint and Body Repair Estimate in Longview Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <img src="images\sidebar-free-estimates.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
+      <img src="images/sidebar-free-estimates.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
     </div>
     <div class="column">
       <p class="block is-hidden-mobile" style="padding-bottom:0"></p>

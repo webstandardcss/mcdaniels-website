@@ -15,7 +15,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
   <h2 class="subtitle"><?php echo $pageTitleTag; ?> in Longview and Kilgore Texas</h2>
   <div class="columns">
     <div class="column is-narrow">
-      <img src="images\sidebar-sikkens.png" class="sidebar-image" alt="<?php echo $pageTitleTag; ?>">
+      <img src="images/sidebar-sikkens.png" class="sidebar-image" alt="<?php echo $pageTitleTag; ?>">
     </div>
     <div class="column">
       <p class="block">We have proudly sprayed Sikkens paint for over 20 years, Sikkens is viewed by most to be the best in the collision repair industry.</p>

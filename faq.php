@@ -14,7 +14,7 @@ $pageKeywords = $pageTitle . ",questions,help,faq,Frequently asked questions" . 
   <h2 class="subtitle">Please see our <a href="#faq">FAQ's</a> below for additional help or call the office at <a href="tel:+19037535391">(903) 753-5391</a></h2>
   <div class="columns">
     <div class="column is-narrow">
-      <img src="images\sidebar-faq.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
+      <img src="images/sidebar-faq.png" class="sidebar-image" alt="<?php echo $pageTitle; ?>">
     </div>
     <div class="column">
       <dl class="mc-faq">

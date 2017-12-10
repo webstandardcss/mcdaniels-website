@@ -15,7 +15,7 @@ $pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $s
   <div class="columns">
     <div class="column is-narrow">
       <a href="directions-to-body-shop.php" target="_blank" class="image sidebar-image">
-        <img src="images\sidebar-locations.png" alt="<?php echo $pageTitle; ?>">
+        <img src="images/sidebar-locations.png" alt="<?php echo $pageTitle; ?>">
       </a>
     </div>
     <div class="column">
