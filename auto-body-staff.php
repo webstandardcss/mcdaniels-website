@@ -322,7 +322,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             <div class="media-content">
               <div class="content">
                 <p>
-                  <strong>Diana Espinoza</strong> <small>Receptionist</small>
+                  <strong>Diana Espinoza</strong> <small>Office Assistant</small>
                   <br>
                   <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
@@ -330,6 +330,41 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
               <nav class="level is-mobile">
                 <div class="level-left">
                   <a class="mc-email" href="mailto:diana@mcdanielsqualitybodyworks.com">
+                    Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
+                  </a>
+                  <a class="level-item" href="tel:+19037535391">
+                    <span class="icon is-small"><i class="fa fa-phone-square"></i></span>
+                  </a>
+                  <a class="level-item" href="#">
+                    <span class="icon is-small"><i class="fa fa-address-book"></i></span>
+                  </a>
+                </div>
+              </nav>
+            </div>
+            <!-- div class="media-right">
+              <button class="delete"></button>
+            </div -->
+          </article>
+        </div>
+        </div>
+        <div class="column is-half mc-staff-column">
+          <article class="media box block">
+            <figure class="media-left">
+              <p class="image is-64x64">
+                <img src="images\staff\marisol_sanchez.jpg">
+              </p>
+            </figure>
+            <div class="media-content">
+              <div class="content">
+                <p>
+                  <strong>Marisol Sanchez</strong> <small>Receptionist</small>
+                  <br>
+                  <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
+                </p>
+              </div>
+              <nav class="level is-mobile">
+                <div class="level-left">
+                  <a class="mc-email" href="mailto:marisol@mcdanielsqualitybodyworks.com">
                     Email <?php // <span class="icon is-small"><i class="fa fa-reply"></i></span> ?>
                   </a>
                   <a class="level-item" href="tel:+19037535391">
@@ -431,7 +466,7 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             <div class="media-content">
               <div class="content">
                 <p>
-                  <strong>Bubba May</strong> <small>Production Manager</small>
+                  <strong>Bubba May</strong> <small>Production Manager - Kilgore</small>
                   <br>
                   <?php // Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis. ?>
                 </p>
