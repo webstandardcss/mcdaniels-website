@@ -26,9 +26,9 @@ $pageKeywords = $pageTitle . ",directions, Longview Texas" . $siteKeywords;
          <!-- .adr -->
        </div>
        <div>
-         <div title="+1.903.758.5033" class="tel first"><span class="type null">Work</span>: <a href="tel:+19037585033">903-758-5033</a></div>
+         <div title="+1.903.753.5391" class="tel first"><span class="type null">Work</span>: <a href="tel:+19037535391">903-753-5391</a></div>
          <div title="+1.903.753.5391" class="tel"><span class="type null">Pref</span>: <a href="tel:+19037535391">903-753-5391</a></div>
-         <div class="tel" title="+1.903.758.8290"><span class="type">Fax</span>: 903-758-8290</div>
+         <div class="tel" title="+1.903.758.8290"><span class="type">Fax</span>: 903-753-8290</div>
          <div>Mon &ndash; Fri 7:30 &ndash; 5:30 </div>
          <a href="mailto:darrell-mcdaniels@sbcglobal.net" class="email">
          <!--Email Me-->

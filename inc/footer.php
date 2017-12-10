@@ -8,7 +8,7 @@
     <div class="block">
       McDaniel’s Quality Body Works<br />
       404 E. Marshall, Longview, Texas 75601&nbsp;1615<br />
-      Hwy 259 N, Kilgore, Texas 75662 &mdash; 903&nbsp;758&nbsp;5033
+      Hwy 259 N, Kilgore, Texas 75662 &mdash; 903&nbsp;753&nbsp;5391
     </div>
     <div class="block">
       <!-- About - Estimates - I-car Gold Training - Accident & FAQs - Warranty -->

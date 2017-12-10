@@ -14,14 +14,14 @@
               <div><b>Longview</b></div>
               <div class="is-size-7">404 E. Marshall<br />Longview, Texas 75601</div>
             </a>
-            <p class="is-size-6"><b><a href="tel:+19037585033">903-758-5033</a></b></p>
+            <p class="is-size-6"><b><a href="tel:+19037535391">903-753-5391</a></b></p>
           </div>
           <div class="notification is-black-transparent has-text-centered">
             <a href="mcdaniels-kilgore-location.php">
               <div><b>Kilgore</b></div>
               <div class="is-size-7">1015 Hwy. 259 N.<br />Kilgore, Texas 75602</div>
             </a>
-            <p class="is-size-6"><b><a href="tel:+19032155099">903-215-5099</a></b></p>
+            <p class="is-size-6"><b><a href="tel:+19032186109">903-218-6109</a></b></p>
           </div>
         </div>
       </div>
