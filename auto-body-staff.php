@@ -346,7 +346,8 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
             </div -->
           </article>
         </div>
-        </div>
+
+
         <div class="column is-half mc-staff-column">
           <article class="media box block">
             <figure class="media-left">
