@@ -2,6 +2,6 @@
 killall -9 python 
 killall -9 sass
 killall -9 php 
-sass --watch css/styles.scss:css/styles.css --watch css/styles.css:css/styles.min.css --style compressed&
+//sass --watch css/styles.scss:css/styles.css --watch css/styles.css:css/styles.min.css --style compressed&
 //python -m SimpleHTTPServer 8000&
 php -S localhost:8000
