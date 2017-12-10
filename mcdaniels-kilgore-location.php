@@ -27,7 +27,7 @@ $pageKeywords = $pageTitle . ",limited warranty, limited lifetime warranty" . $s
         </div>
         <div><abbr title="+1.903.218.6099" class="tel first"><span class="type null">Work</span>: <a href="tel:+19032186099">903-218-6099</a></abbr></div>
         <div class="tel" title="+1.903.758.8290"><span class="type">Fax</span>: 903-753-8290</div>
-        <div>Mon &ndash; Fri 7:30 &ndash; 5:30 </div>
+        <div>Mon &ndash; Fri 8:00 &ndash; 5:00 </div>
         <a href="mailto:darrell-mcdaniels@sbcglobal.net" class="email">
         <!--Email Me-->
         </a>
