@@ -278,10 +278,10 @@ $pageKeywords = $pageTitle . ",office,technicians,sales" . $siteKeywords;
       <p class="block">Our office staff is led by Vice President and Office Manager, Cherie Smith.</p>
       <p class="block">Cherie and her staff are here to help you coordinate payments, arrange for rental cars, set up a tow or answer any company accounting questions you may have.</p>
       <div class="columns is-multiline mc-staff-row">
-        <div class="column is-12 mc-staff-column">
+        <div class="column is-half mc-staff-column">
           <article class="media box block">
             <figure class="media-left">
-              <p class="image is-128x128" style="margin-bottom:12px;">
+              <p class="image is-64x64" style="margin-bottom:12px;">
                 <img src="images/staff-cherie.jpg">
               </p>
             </figure>
